@@ -24,8 +24,8 @@ http://localhost:3000/api/mail
 
 # From mail id,password,port number shoulde be added to the .env file as
 
-# app password is used in this project to get access to the sender EMAIL
-
 PORT=3000
 EMAIL=
 PASSWORD=
+
+# app password is used in this project to get access to the sender EMAIL
